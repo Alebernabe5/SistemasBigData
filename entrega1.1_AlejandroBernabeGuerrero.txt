@@ -1,0 +1,5 @@
+https://github.com/Ivanasp43/Act1.7-ObtencionYAlmacenamiento-main/tree/main
+
+Tenemos los ejercicios extras en un rama extra llamada FormatosBigDataParquet
+
+Dentro de esta rama tenemos 3 commit realizados con las diferentes ampliaciones. 
