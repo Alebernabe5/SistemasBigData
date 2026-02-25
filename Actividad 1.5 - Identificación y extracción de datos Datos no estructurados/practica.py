@@ -2,8 +2,7 @@ import os
 from atproto import Client
 from google import genai
 
-BSKY_IDENTIFIER = os.environ.get('BSKY_IDENTIFIER') or "alebergue5.bsky.social"
-BSKY_PASSWORD = os.environ.get('BSKY_PASSWORD') or "tv4c-3cjr-3ywo-j3tu"
+
 API_KEY = os.environ.get('GEMINI_API_KEY') or "AIzaSyC_mU6Jl6-0Fkhr8ZSC9RjqxdTKQ8mPf1Q"
 
 # Conexión Bluesky
